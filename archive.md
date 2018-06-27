@@ -1,8 +1,7 @@
 ---
 layout:     page
 title:      Archive
-permalink:  /02_archive.html
-order: 2
+permalink:  /archive.html
 ---
 
 Find an article within this site using search terms: 
