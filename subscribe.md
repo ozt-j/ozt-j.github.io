@@ -2,6 +2,7 @@
 layout: page
 title: Subscribe
 permalink: /99-subscribe.html
+order: 4
 ---
 
 <!-- Begin MailChimp Signup Form -->

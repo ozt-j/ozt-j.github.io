@@ -2,6 +2,7 @@
 title:      "What's New?"
 layout:     page
 permalink:  /03-what-is-new.html
+order: 3
 ---
 
 The easiest way to find something that you'll be interested in is to [look at

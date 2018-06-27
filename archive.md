@@ -2,6 +2,7 @@
 layout:     page
 title:      Archive
 permalink:  /02_archive.html
+order: 2
 ---
 
 Find an article within this site using search terms: 
