@@ -3,7 +3,7 @@ title:              "Ozzie's Sky"
 email:              ztianjin@me.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog, most of which are about one of two major themes. The first is computer
-  science, which is my area of specialty as an software engineer. The
+  science, which is my area of specialty as software engineer. The
   second can be broadly categorized as "Others," which relates to my
   experience and knowledge in other fields.
 baseurl:            ""
