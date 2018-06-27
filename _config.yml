@@ -10,6 +10,7 @@ baseurl:            ""
 url:                "https://ozzie00.github.io"
 twitter_username:   __Ozzie_
 github_username:    ozzie00
+facebook_username:  ozzie00
 future:             True
 timezone:           China/Beijing
 
