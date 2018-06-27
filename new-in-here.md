@@ -1,7 +1,7 @@
 ---
-title:      "What's New?"
+title:      "New in Here"
 layout:     page
-permalink:  /what-is-new.html
+permalink:  /new-in-here.html
 ---
 
 The easiest way to find something that you'll be interested in is to [look at
