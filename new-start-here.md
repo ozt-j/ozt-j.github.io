@@ -14,7 +14,7 @@ more about my thoughts on various technical research papers.
 
 **Generic Technical Guides**, not including those related to my prelims study:
 
-- [Basics of Bayesian Neural Networks][1]
+- [Basics of Bayesian Neural Networks][55]
 
 
 Notes on **Specific Research Papers** (for others, see [this GitHub repository][60]):
@@ -41,7 +41,7 @@ Finally, I write sometimes about **the books I read**, such as in the following:
 [7]:https://danieltakeshi.github.io/2015-07-12-notes-on-exact-inference-in-graphical-models/
 [8]:https://danieltakeshi.github.io/2015-07-29-the-least-mean-squares-algorithm/
 [9]:https://danieltakeshi.github.io/2015-09-01-my-prelims/
-[10]:https://danieltakeshi.github.io/archive.html
+[10]:https://ozzie00.github.io/archive.html
 [11]:https://danieltakeshi.github.io/2012/08/06/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/
 [12]:https://danieltakeshi.github.io/2013/02/06/why-computer-science-is-a-good-major-for-deaf-students/
 [13]:https://danieltakeshi.github.io/2015-06-20-advocate-for-yourself/
