@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   experience and knowledge in other fields.
 baseurl:            ""
 url:                "https://ozzie00.github.io"
-twitter_username:   @__Ozzie_
+twitter_username:   __Ozzie_
 github_username:    ozzie00
 future:             True
 timezone:           China/Beijing
