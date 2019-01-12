@@ -31,7 +31,7 @@ Session 1: Knowledge and Application
 
    Jian Liu,Yubo Chen,Kang Liu
 
-   ![Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](/assets/images/Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection.jpg)
+   ![Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](/assets/images/Exploiting the Ground-Truth-An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection.jpg)
 
 5. LENA:Locality-Expanded Neural Embedding for Knowledge Base Completion
 
