@@ -11,6 +11,8 @@ Session 1: Knowledge and Application
 
 1. Dynamic Explainable Recommendation based on Neural Attentive Models
 
+   ![Dynamic Explainable Recommendation based on Neural Attentive Models](/assets/images/Dynamic Explainable Recommendation based on Neural Attentive Models.jpg)
+
    Xu Chen (Tsinghua University), Yongfeng Zhang (Rutgers University), Zheng Qin (Tsinghua University)
 
 2. Jointly Extracting Multiple Triplets with Multilayer Translation Constraints
