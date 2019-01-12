@@ -161,8 +161,3 @@ Session 4: Text Generation
    ![Differentiated Distribution Recovery for Neural Text Generation](/assets/images/Differentiated Distribution Recovery for Neural Text Generation.jpg)
 
 
-
-At last, Thank them for their work!
-
-
-    ![Thanks](/assets/images/AAAI(2019) NLP from China thanks.jpg)
