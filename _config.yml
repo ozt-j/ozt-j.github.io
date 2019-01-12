@@ -1,6 +1,6 @@
 # Site settings
 title:              "Ozzie's Blog"
-email:              ztianjin@me.com
+email:              ztianjin@onemee.ai
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog, focus on computer science 
 baseurl:            ""
