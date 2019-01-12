@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "AAAI NLP Paper From China"
+title:      "AAAI(2019) NLP Paper From China"
 date:       2019-01-12 21:14:06
 permalink:  2019/01/12/AAAI-NLP-Paper-From-China/
 ---
 
-AAAI NLP Paper From China
+AAAI(2019) NLP Paper From China
 
 Session 1: Knowledge and Application
 
@@ -42,50 +42,50 @@ Session 2 : Machine Translation and QA
 
 1. Unsupervised Neural Machine Translation with SMT as Posterior Regularization
 
-  Shuo Ren,Zhirui Zhang,Shujie Liu,Ming Zhou,Shuai Ma
+   Shuo Ren,Zhirui Zhang,Shujie Liu,Ming Zhou,Shuai Ma
 
 2. Addressing the Under-translation Problem from the Entropy Perspective
 
-  Yang Zhao,Jiajun Zhang,Chengqing Zong,Zhongjun He, Hua Wu
+   Yang Zhao,Jiajun Zhang,Chengqing Zong,Zhongjun He, Hua Wu
 
 3. "Bilingual Expert" Can Find Translation Errors
 
-  Kai Fan,Jiayi Wang,Bo Li,Fengming Zhou,Boxing Chen,Luo Shi
+   Kai Fan,Jiayi Wang,Bo Li,Fengming Zhou,Boxing Chen,Luo Shi
 
 4. HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering
 
-  Liang Pang,Yanyan Lan,Jiafeng Guo,Jun Xu,Lixin Su,Xueqi Cheng
+   Liang Pang,Yanyan Lan,Jiafeng Guo,Jun Xu,Lixin Su,Xueqi Cheng
 
 5. Learning to Align Question and Answer Utterances in Customer Service Converstion with Recurrent Pointer Networks
 
-  Shizhu He,Kang Liu,Weiting Au
+   Shizhu He,Kang Liu,Weiting Au
 
 
 Session 3: Natural Language Processing Model
 
 1. A Generalized Language Model in Tensor Space
 
-  Lipeng Zhang,Peng Zhang,Zhan Su,Xindian Ma,Dawei Song
+   Lipeng Zhang,Peng Zhang,Zhan Su,Xindian Ma,Dawei Song
 
 2. Trainable Undersampling for Class-Imbalance Learning
 
-  Minlong Peng,Qi Zhang,Xiaoyu Xing,Tao Gui,Xuanjing Huang,Yu-Gang Jiang,Keyu Ding,Zhigang Chen
+   Minlong Peng,Qi Zhang,Xiaoyu Xing,Tao Gui,Xuanjing Huang,Yu-Gang Jiang,Keyu Ding,Zhigang Chen
 
 3. Bidirectional Transition-Based Dependency Parsing,
 
-  Yunzhe Yuan,Yong Jiang,Kewei Tu
+   Yunzhe Yuan,Yong Jiang,Kewei Tu
 
 4. Unsupervised Bilingual Lexicon Induction from Mono-lingual Multimodal Data
 
-  Shizhe Chen,Qin Jin,Alexander Hauptmann
+   Shizhe Chen,Qin Jin,Alexander Hauptmann
 
 5. Long Short-Term Memory with Dynamic Skip Connections
 
-  Tao Gui,Qi Zhang,Lujun Zhao,Yaosong Liu,Minlong Peng,Jingjing Gong,Xuanjing Huang
+   Tao Gui,Qi Zhang,Lujun Zhao,Yaosong Liu,Minlong Peng,Jingjing Gong,Xuanjing Huang
 
 6. Show,Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition
 
-  Hui Li, Peng Wang,Chunhua Shen,Guyu Zhang
+   Hui Li, Peng Wang,Chunhua Shen,Guyu Zhang
 
 
 Session 4: Text Generation
@@ -96,21 +96,21 @@ Session 4: Text Generation
 
 2. A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation
 
-  Siyuan Wang,Zhongyu Wei,Zhihao Fan,Yang Liu,Xuanjing Huang
+   Siyuan Wang,Zhongyu Wei,Zhihao Fan,Yang Liu,Xuanjing Huang
 
 3. Generating Chinese Ci with Designated Metrical Structure
 
-  Richong Zhang, Xinyu Liu, Xinwei Chen, Zhaoqing Xu, Zhiyuan Hu, Yongyi Mao
+   Richong Zhang, Xinyu Liu, Xinwei Chen, Zhaoqing Xu, Zhiyuan Hu, Yongyi Mao
 
 4. Story Ending Generation with Incremental Encoding and Commonsense Knowledge
 
-  Jian Guan,Yansen Wang,Minlie Huang
+   Jian Guan,Yansen Wang,Minlie Huang
 
 5. A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues
 
-  Zhouxing Shi,Minlie Huang
+   Zhouxing Shi,Minlie Huang
 
 6. Differentiated Distribution Recovery for Neural Text Generation
 
-
+   Jianing Li,Yanyan lan,Jiafeng Guo,Jun Xu,Xueqi Cheng
 
