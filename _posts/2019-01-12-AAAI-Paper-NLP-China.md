@@ -5,7 +5,7 @@ date:       2018-06-27 15:38:17
 permalink:  2019/01/12/AAAI-NLP-Paper-From-China/
 ---
 
-AAAI NLP Paper from China
+AAAI NLP Paper From China
 
 Session 1: Knowledege and Application
 
