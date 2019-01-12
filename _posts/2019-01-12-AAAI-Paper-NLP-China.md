@@ -2,10 +2,10 @@
 layout:     post
 title:      "Hello World!"
 date:       2018-06-27 15:38:17
-permalink:  2018/06/27/hello-world/
+permalink:  2019/01/12/AAAI-NLP-Paper-From-China/
 ---
 
-AAAI NLP paper from China
+AAAI NLP Paper from China
 
 Session 1: Knowledege and Application
 
