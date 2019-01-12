@@ -165,4 +165,4 @@ Session 4: Text Generation
 At last, Thank them for their work!
 
 
-    ![Thanks](/assets/images/AAAI(2019)_NLP_from_China_thanks.jpg.jpg)
+    ![Thanks](/assets/images/AAAI(2019)_NLP_from_China_thanks.jpg)
