@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Hello World!"
-date:       2018-06-27 15:38:17
+title:      "AAAI NLP Paper From China"
+date:       2019-01-12 21:14:06
 permalink:  2019/01/12/AAAI-NLP-Paper-From-China/
 ---
 
 AAAI NLP Paper From China
 
-Session 1: Knowledege and Application
+Session 1: Knowledge and Application
 
 1. Dynamic Explainable Recommendation based on Neural Attentive Models
 
