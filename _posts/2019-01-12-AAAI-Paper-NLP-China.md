@@ -128,7 +128,7 @@ Session 4: Text Generation
 
    Shuming Ma, Lei Cui,Damai Dai, Furu Wei, Xu Sun
 
-   ![Livebot: Generating Live Video Comments Based on Visual and Textual Contexts](/assets/images/Livebot-Generating Live Video Comments Based on Visual and Textual Contexts.jpg)
+   ![Livebot: Generating Live Video Comments Based on Visual and Textual Contexts](/assets/images/Livebot.jpg)
 
 2. A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation
 
