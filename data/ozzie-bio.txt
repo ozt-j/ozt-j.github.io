@@ -1,1 +1,1 @@
-Ozzie T. Zhang is a doctoral student at Tsinghua University, where he works on theory of machine learning, specially OOD generalization problem, Optimization, Uncertainty and Offline RL.
+Oz T. Zhang is a doctoral student at Tsinghua University, where he works on theory of machine learning, specially OOD generalization problem, Optimization, Uncertainty and Offline RL.
